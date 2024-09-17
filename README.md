@@ -1,5 +1,4 @@
-# Little Lemon API
-
+# META-API-COURSEWORK
 
 ## Main Steps
 1. **Create an environment:**
@@ -95,4 +94,3 @@
     deactivate
     ```
 
-# META-API-COURSEWORK
